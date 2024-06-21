@@ -69876,6 +69876,9 @@
 	<programme channel="黑莓动画" start="20240622032900 +0800" stop="20240622034800 +0800">
 		<title lang="zh">09_全职法师第2季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240622034800 +0800" stop="20240622040600 +0800">
+		<title lang="zh">10_全职法师第2季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -70449,6 +70452,9 @@
 	<programme channel="newtv古装剧场" start="20240622030700 +0800" stop="20240622034700 +0800">
 		<title lang="zh">16_祈今朝</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240622034700 +0800" stop="20240622043200 +0800">
+		<title lang="zh">34_天地民心</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -70590,6 +70596,9 @@
 	<programme channel="newtv军事评论" start="20240622033300 +0800" stop="20240622035500 +0800">
 		<title lang="zh">二战的爆发（三）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240622035500 +0800" stop="20240622042000 +0800">
+		<title lang="zh">国防军事早报</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -70616,6 +70625,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240622034100 +0800" stop="20240622035000 +0800">
 		<title lang="zh">小跳蛙-金洋（完整教学）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240622040000 +0800" stop="20240622040800 +0800">
+		<title lang="zh">第七期：开心发光 快乐发电</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
