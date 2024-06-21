@@ -58650,6 +58650,9 @@
 	<programme channel="纯享4K" start="20240622040500 +0800" stop="20240622044700 +0800">
 		<title lang="zh">远方的家4K 金佛山国家级自然保护区 珍稀动植物的家园</title>
 	</programme>
+	<programme channel="纯享4K" start="20240622045700 +0800" stop="20240622050200 +0800">
+		<title lang="zh">如果国宝会说话4K 花树状金步摇 一步一欢喜</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -70272,6 +70275,9 @@
 	<programme channel="黑莓动画" start="20240622042900 +0800" stop="20240622045100 +0800">
 		<title lang="zh">22_马达加斯加企鹅第一季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240622045100 +0800" stop="20240622051600 +0800">
+		<title lang="zh">21_入间同学入魔了</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -70815,6 +70821,9 @@
 	<programme channel="newtv精品大剧" start="20240622041300 +0800" stop="20240622045800 +0800">
 		<title lang="zh">29_大浪淘沙</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240622045800 +0800" stop="20240622054400 +0800">
+		<title lang="zh">30_大浪淘沙</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -70929,6 +70938,9 @@
 	<programme channel="newtv热播精选" start="20240622040200 +0800" stop="20240622044800 +0800">
 		<title lang="zh">08_梦中的那片海</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240622044800 +0800" stop="20240622053400 +0800">
+		<title lang="zh">09_梦中的那片海</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -70943,6 +70955,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240622041500 +0800" stop="20240622045500 +0800">
 		<title lang="zh">07_头号前妻</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240622045500 +0800" stop="20240622053500 +0800">
+		<title lang="zh">08_头号前妻</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -70983,6 +70998,9 @@
 	<programme channel="newtv怡伴健康" start="20240622043300 +0800" stop="20240622050000 +0800">
 		<title lang="zh">瀑布下的生态宝藏（下）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240622050000 +0800" stop="20240622052700 +0800">
+		<title lang="zh">生命脉动</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -71000,6 +71018,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240622040600 +0800" stop="20240622045100 +0800">
 		<title lang="zh">26_画眉</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240622045100 +0800" stop="20240622053700 +0800">
+		<title lang="zh">27_画眉</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -71072,6 +71093,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20240622044400 +0800" stop="20240622044800 +0800">
 		<title lang="zh">来跳舞-毕刚（舞蹈展示）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20240622045600 +0800" stop="20240622050500 +0800">
+		<title lang="zh">女儿情-完整（无二维码）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
